@@ -1,0 +1,14 @@
+D:\Проекты\Одномерные массивы c#\bin\Debug\net8.0\Одномерные массивы c#.exe
+D:\Проекты\Одномерные массивы c#\bin\Debug\net8.0\Одномерные массивы c#.deps.json
+D:\Проекты\Одномерные массивы c#\bin\Debug\net8.0\Одномерные массивы c#.runtimeconfig.json
+D:\Проекты\Одномерные массивы c#\bin\Debug\net8.0\Одномерные массивы c#.dll
+D:\Проекты\Одномерные массивы c#\bin\Debug\net8.0\Одномерные массивы c#.pdb
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\Одномерные массивы c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\Одномерные массивы c#.AssemblyInfoInputs.cache
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\Одномерные массивы c#.AssemblyInfo.cs
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\Одномерные массивы c#.csproj.CoreCompileInputs.cache
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\Одномерные массивы c#.dll
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\refint\Одномерные массивы c#.dll
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\Одномерные массивы c#.pdb
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\Одномерные массивы c#.genruntimeconfig.cache
+D:\Проекты\Одномерные массивы c#\obj\Debug\net8.0\ref\Одномерные массивы c#.dll
